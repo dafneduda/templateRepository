@@ -20,7 +20,7 @@ Descrição do projeto
 
 ## 🛠️ Instruções
 
-Utilize os prompts nas ferramentas sugeridas para gerar o material base e uma ferramenta de edição de documentos como PowerPoint para diagramação.
+Como utilizar
 
 # 👩🏻‍💻 Autora
 
